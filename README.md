@@ -6,7 +6,7 @@ Interactive web map using Leaflet, Node.js, and MySQL to display local businesse
 - Real-time data loading
 - User reviews and business images
 - Spatial SQL queries (PostGIS)
-*(Screenshots will be added soon)*
+
 
 ## **2. Cybersecurity Projects**
 Several cybersecurity labs:
@@ -14,7 +14,7 @@ Several cybersecurity labs:
 - Linux security and permissions  
 - Vulnerability scanning  
 - Basics of penetration testing  
-*(Screenshots will be added soon)*
+
 
 ## **3. AI & Deep Learning Projects**
 ### **Fruit Classification – NVIDIA Certificate**
@@ -22,7 +22,6 @@ Several cybersecurity labs:
 - Data Augmentation  
 - Fine-tuning  
 - Achieved 92% accuracy  
-*(Notebook and results will be added)*
 
 ## **4. Internship – Algérie Télécom**
 Worked on:
